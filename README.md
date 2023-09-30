@@ -1,14 +1,14 @@
 
-##  BINF 6308 Assignment 10
+BINF 6308 Assignment 10
 
-Project name: KEGG Restful API application 
+# Project name: KEGG Restful API application 
 
 
 ## Description
 
 Assignment 10 demonstrates data acquisition by querying the KEGG
 (Kyoto Encyclopedia of Genes and Genomes) database, and append back
-to the original BLAST file.
+to the original BLAST result as an annotation.
 
 
 ## Getting Started
