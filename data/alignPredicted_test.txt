@@ -1,0 +1,1 @@
+TRINITY_DN10002_c0_g1_i1.p1	Q5ZL74	125	220	124	46	37.097	5.34e-25	RecName: Full=Vesicle-associated membrane protein 7; AltName: Full=Synaptobrevin-like protein 1
